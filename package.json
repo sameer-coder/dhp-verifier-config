@@ -22,7 +22,6 @@
     "api"
   ],
   "dependencies": {
-    "healthpass-auth-lib": "github:WH-HealthPass/healthpass-auth-lib",
     "@azure/cosmos": "^3.17.1",
     "@cloudant/cloudant": "^4.5.1",
     "ibmcloud-appid": "^6.1.0",
